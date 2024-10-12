@@ -1,5 +1,5 @@
 ## Hi there 👋
-#Study pyhton C# Java
+##Study pyhton C# Java
 <!--
 **Nazariko/Nazariko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
