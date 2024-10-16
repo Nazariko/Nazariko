@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nazarii Heiko
 =====================================================================================================================================
 
-Soft-ware engineer
+Software engineer
 ------------------
 
 I've been learning to code since 2021. That year I started learning Python. In 2022, I finished Powercode acedemy courses. Then I tried to deepen my knowledge in Python. I also have a little experience with java, I took free trial courses from goit and javarush. I am currently studying at the National Technical University of Ukraine KPI named after Ihor Sikorskyi. In the first year of university we study C#,basic constructions and the basics of algorithmization
